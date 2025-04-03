@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+yfinance
+transformers
+ta
+torch  # Required by transformers
